@@ -1,4 +1,4 @@
-# 📅 Day 1 – GATE CSE Preparation
+#  Day 1 – GATE CSE Preparation
 
 ### Date
 18 December 2025
